@@ -4,9 +4,9 @@ Andrea & Jeff's (The Chus) own weekly trend report site. Every issue is one text
 design, layout, animations, filters, saved ideas, copy buttons and Save as PDF are shared, so a new issue never needs
 design or code changes.
 
-- **Where it lives:** `github.com/michellesalcedovallenilla-ai/stride-andreayjeff`. Every new Andrea & Jeff issue
+- **Where it lives:** `github.com/mydigitalcrib/stride-andreayjeff`. Every new Andrea & Jeff issue
   goes here, always.
-- **The link to share:** https://michellesalcedovallenilla-ai.github.io/stride-andreayjeff/ (GitHub Pages). Every push
+- **The link to share:** https://mydigitalcrib.github.io/stride-andreayjeff/ (GitHub Pages). Every push
   to `main` publishes the site again within a few minutes (`.github/workflows/publish.yml`).
 - **Made from:** the Stride weekly report template, so it has the same design as every Stride weekly report.
 - Who it's for ("Made for Andrea & Jeff (The Chus)") is set once in `src/content/settings.yaml`, so new issues

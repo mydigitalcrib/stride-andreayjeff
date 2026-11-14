@@ -1,5 +1,5 @@
 # Publishes the site to GitHub Pages every time something is pushed to main (or when run by hand from the
-# Actions tab). The link: https://michellesalcedovallenilla-ai.github.io/stride-andreayjeff/
+# Actions tab). The link: https://mydigitalcrib.github.io/stride-andreayjeff/
 # GitHub Pages serves the site in a folder named after the repo, so the build is told that folder (BASE_PATH).
 name: Publish the site
 
@@ -30,7 +30,7 @@ jobs:
       - run: npm ci
       - run: npm run build
         env:
-          SITE_URL: https://michellesalcedovallenilla-ai.github.io
+          SITE_URL: https://mydigitalcrib.github.io
           BASE_PATH: /stride-andreayjeff
       - uses: actions/upload-pages-artifact@v3
         with:
