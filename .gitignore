@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.astro/
+.test-output/
+.DS_Store
+Thumbs.db
+*.log
+
+# Credentials never belong in this repo. This site needs none, so anything like these is a mistake.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+
+# Private copies of the original site (they include an issue that is not public). They stay on this computer
+# for the design tests and are never pushed.
+tests/fixtures/original/
+tests/reference/original-build/

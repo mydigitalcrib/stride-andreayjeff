@@ -1,0 +1,408 @@
+# Issue 001: Andrea & Jeff (The Chus). Made from templates/new-issue.yaml by `npm run new-issue`.
+#
+# Written from the Stride Talent brief "Andrea & Jeff, weekly trend intelligence" (Friday report dated 13 Nov 2026,
+# research checked 14 Nov 2026, reporting window 6–12 Nov 2026). Everything here comes from that brief: no creators,
+# figures, quotes or brand deals were added.
+# Left out on purpose: the brief's fit scores (editorial judgments, not predictions), and trends 04–07 of its radar,
+# which it lists without any detail to build on. The dialogue lines are the brief's suggestions, not things Andrea
+# or Jeff have said. The emoji in the brief's captions didn't survive the PDF, so these captions have none.
+# The brief has no audience-comment research, so the "talking" section offers questions to ask instead.
+
+number: 1
+topic: "Andrea & Jeff"
+start: 2026-11-06
+end: 2026-11-12
+# While true, this issue only shows when you preview on your computer (npm run dev). Set it to false to publish.
+draft: false
+# Every figure here is the brief's own (dates and durations), copied as written.
+figuresChecked: true
+homeLine: Three films for Andrea & Jeff this week, and exactly how to make them.
+
+# Words that differ from the usual ones for this issue.
+labels:
+  nav:
+    try: Three to film
+    challenge: The week’s plan
+  challenge:
+    caption: Your A/B test
+    copy: Copy the plan
+    copied: Plan copied. Have a great week.
+
+headline:
+  - Two cultures,
+  - one home,
+  - "*three films.*"
+lede: A love story told in photos, Jeff’s costeño glow-up and the first Christmas song of the season. Keep the cultural detail in what you say, not just in the captions.
+cover:
+  quote: “¡Ajá, manito!”
+  line: Jeff’s costeño glow-up is the one to shoot first.
+
+# A — This week in three
+week:
+  kicker: This week in three
+  headline:
+    - Three films
+    - "*to make first*"
+  items:
+    - title: "Time: then and now"
+      body: Your real relationship history, from first match to married life. Nothing is more yours than that.
+    - title: The costeño glow-up
+      body: The before-and-after format with the strongest Colombian–Korean language twist, with Andrea directing the joke.
+    - title: Christmas mode
+      body: Seasonal, naturally made for two of you, and quick to publish while holiday music is coming back.
+  tryThis: Shoot Jeff’s glow-up today. Film the love story and the holiday skit together in one session.
+  example:
+    body: Public trend trackers checked these formats on 10 Nov for Instagram and TikTok. Instagram and TikTok blocked direct viewing in this research, so study the format from the trackers, not as proof of how any post did.
+    links:
+      - label: Instagram trends, checked 10 Nov
+        url: https://postdom.com/blog/instagram-trends
+      - label: TikTok trends, checked 10 Nov
+        url: https://postdom.com/blog/tiktok-trends
+  beats:
+    title: The glow-up, in three beats
+    items:
+      - name: Antes
+        line: “Hola, mucho gusto. ¿Cómo estás?”
+      - name: The switch
+        line: Freeze on the beat change.
+      - name: Después
+        line: “¡Ajá, manito! ¿Todo bien o qué?”
+    footer: Use phrases Jeff really says. His accent is never the joke.
+
+# B — The three films, in detail. The first one starts open.
+five:
+  kicker: Worth your time
+  headline:
+    - Three films
+    - to *make this week*
+  lead: Pick the one that feels most like you two, or batch all three.
+  note: All three formats were on public trend trackers on 10 Nov, but Instagram and TikTok blocked direct viewing of the examples, so we can’t confirm when they were posted or how they did. The order is Stride’s editorial pick, not a prediction of views.
+  items:
+    - title: From first match to married life
+      makeItYours: Turn an early photo of you two into today’s version of your multicultural marriage.
+      what: "“Time: then and now” is a tracked format on Instagram and TikTok: an early memory, then a match cut to the present day."
+      more: Open on a real early photo or screenshot with private details hidden, add a quick mock dating-app reaction, cut to two real memories, then match the old pose today. End by asking where your audience met their partner. Aim for 25 to 35 seconds.
+      hook: De un match a una vida juntos…
+      ways:
+        - “Si ese primer mensaje no hubiera llegado…”
+        - "Instagram: an emotional, photo-first montage."
+        - "TikTok: a voiceover that sets up the first match."
+      careful: Use only real photos and footage you both agree to share. If you recreate a moment, say it’s a recreation.
+      brands: Travel and cultural tourism, home
+      links:
+        - label: See the format on Instagram
+          url: https://www.instagram.com/reel/DfeYQukIzrD/
+        - label: See it on TikTok
+          url: https://www.tiktok.com/%40nursemikael_/video/7705622830091603213
+    - title: Jeff’s costeño glow-up
+      makeItYours: The before-and-after reveal, with Jeff’s Colombian Spanish and Andrea directing the joke.
+      what: The “Entiende, corazón” before-and-after reveal was a tracked format on Instagram and TikTok on 10 Nov.
+      more: Jeff starts formal, in a plain shirt, with a stiff greeting. Freeze on the beat change, then he’s back relaxed with a phrase he really uses while Andrea tries not to laugh. She asks him to define one real costeño word, and he gives a funny, respectful answer. Jeff’s love of Valledupar expressions has been covered before, so this is genuinely his story.
+      hook: Jeff antes de conocer a una vallenata…
+      ways:
+        - “El español de Jeff, antes vs. después de Andrea”
+        - "TikTok: stretch it to 30 seconds and let the comments choose the next word."
+        - "Shorts: title it “Korean husband learns costeño Spanish”."
+      careful: Check that Jeff is comfortable saying every phrase. Never make his mistakes or his accent the punchline.
+      brands: Language and translation tools
+      links:
+        - label: See the format on Instagram
+          url: https://www.instagram.com/reel/DfTDW1oNNtb/
+        - label: See it on TikTok
+          url: https://www.tiktok.com/%40karlassuarez/video/7704818472168983860
+    - title: "Christmas mode: two cultures"
+      makeItYours: A warm, funny reaction skit around the first Christmas song of the season.
+      what: “Christmas music is back” was a tracked Instagram Reels format on 10 Nov.
+      more: Andrea presses play on a holiday playlist, Jeff spots one small decoration, and Andrea appears behind him with a whole box. Cut between your two decorating styles, then reveal the finished, genuinely festive corner. End by asking about your audience’s holiday traditions.
+      hook: Cuando pones villancicos en noviembre y Jeff todavía no está listo…
+      ways:
+        - “La Navidad en esta casa empieza cuando Andrea dice que empieza”
+        - "TikTok: follow up by reacting to the “too early” comments."
+        - "Shorts: keep your own dialogue as the main audio."
+      careful: The disagreement is scripted, so adapt it to how you two really are. Check music rights, especially for sponsored posts.
+      brands: Home and holiday
+      links:
+        - label: See a holiday couple example
+          url: https://www.instagram.com/reel/DfNd88dS2Dg/
+
+# C — No audience-comment research this week, so: questions to ask the audience.
+talking:
+  nav: Questions to ask
+  kicker: Start the conversation
+  headline:
+    - What to ask
+    - "*your*"
+    - audience.
+  lead: We couldn’t see your comments or Insights this week, so these are questions to ask, not ones we heard.
+  questions:
+    - text: ¿Ustedes cómo conocieron a su persona?
+    - text: ¿Qué palabra colombiana debería aprender Jeff después?
+    - text: ¿En sus casas desde cuándo se decora para Navidad?
+  turn:
+    title: Turn it into content
+    body: "Reply to one real comment with a short clip: one word or pronunciation question from your audience. Then watch which themes come up most: Spanish expressions, food, holidays or your love story."
+  care: Celebrate your own tastes rather than Colombian or Korean stereotypes, and never share private family messages.
+
+# D — Seven ideas: the three films plus the brief's four extras.
+ideas:
+  kicker: Ready to film
+  headline:
+    - Seven ideas
+    - "*only you two can make*"
+  lead: The three films, plus four quick extras. Tap one to see the hook and how to film it, then save your favorites.
+  filming: "Batch it: film the glow-up, the food swap and two couple POVs in one afternoon. One fixed camera spot, two outfit changes, 3 to 5 short vertical clips. Get a clean first 2 seconds, and end each with a question for the caption."
+  careful: Celebrate your own tastes, not stereotypes. No pranks that look like a real fight, and no private family messages. Disclose paid partnerships, and check music rights before using a song in sponsored or boosted posts.
+  segments:
+    - id: love
+      label: Love story
+    - id: culture
+      label: Culture & language
+    - id: holiday
+      label: Holidays
+    - id: home
+      label: Food & home
+  items:
+    - id: 1
+      segment: love
+      stage: Couple storytelling
+      title: First match → The Chus
+      format: Reel or TikTok
+      time: 25–35 seconds
+      level: Medium effort
+      hook: De un match a una vida juntos…
+      shots:
+        - A real early photo or screenshot, private details hidden, with a date label.
+        - Andrea holds up the phone with a mock dating-app reaction. Jeff walks in.
+        - Two real memories, like an early trip, the proposal or the wedding. Only footage you both approve.
+        - Match cut to today, in the same pose, laughing or walking hand in hand.
+        - A warm look to camera. Ask where they met their partner.
+      caption: De un mensaje a todas estas historias juntos. ¿Ustedes cómo conocieron a su persona? Cuéntennos.
+      brands: Travel and cultural tourism, home
+    - id: 2
+      segment: culture
+      stage: Culture & language
+      title: Jeff’s costeño glow-up
+      format: Reel or TikTok
+      time: 25–35 seconds
+      level: Low–medium effort
+      hook: Jeff antes de conocer a una vallenata…
+      shots:
+        - Jeff in a plain shirt, looking formal, with “ANTES” on screen.
+        - A stiff, careful greeting while Andrea reacts off camera.
+        - Freeze on the beat change, or a spoken clap cue.
+        - Jeff back, relaxed, with a phrase he really uses. Andrea tries not to laugh.
+        - Andrea asks him to define one real costeño word. A funny, respectful answer.
+        - Both laugh. End on “¿Qué palabra le enseñamos?”
+      caption: El diccionario de Jeff ya tiene sabor costeño. ¿Qué palabra colombiana debería aprender después?
+      brands: Language and translation tools
+    - id: 3
+      segment: holiday
+      stage: Holidays
+      title: "Christmas mode: two cultures"
+      format: Reel
+      time: 25–35 seconds
+      level: Low effort
+      hook: Cuando pones villancicos en noviembre y Jeff todavía no está listo…
+      shots:
+        - Andrea presses play on a holiday playlist. Jeff looks at the camera.
+        - Jeff spots one small decoration. Andrea appears behind him with a whole box.
+        - Cut to your two very different decorating styles.
+        - "Quick montage: one adjusts the lights, the other insists on one more thing."
+        - Reveal the finished, genuinely festive corner.
+        - Ask about their holiday traditions.
+      caption: Apareció la primera canción navideña y ya no hubo vuelta atrás. ¿En sus casas desde cuándo se decora?
+      brands: Home and holiday
+    - id: 4
+      segment: culture
+      stage: Culture · evergreen, not a fresh trend
+      title: Our couple dictionary
+      format: Short vertical video
+      time: 10–20 min to make
+      level: Low effort
+      hook: Diccionario de pareja, palabras que Jeff ya usa
+      shots:
+        - Andrea challenges Jeff with three real Colombian phrases.
+        - Jeff gives a Korean counterpart, only when one genuinely exists.
+        - End by asking “¿Cuál nos faltó?”
+      caption: ¿Cuál nos faltó?
+      brands: Language and translation tools
+    - id: 5
+      segment: love
+      stage: Marriage · a skit you can reuse
+      title: Who decides dinner?
+      format: Short vertical video, POV
+      time: 25 seconds
+      level: Low effort
+      hook: ¿Quién decide qué cenamos?
+      shots:
+        - Three meal options.
+        - You both pretend not to care which one wins.
+        - An unexpected final pick. Base the lines on what you really like to eat.
+    - id: 6
+      segment: home
+      stage: Food · brand-safe
+      title: "Taste test: ají vs. gochujang"
+      format: Short vertical video
+      time: 25–35 min to make
+      level: Medium effort
+      hook: La prueba de sabor, ají vs. gochujang
+      shots:
+        - Pick two dishes you both already enjoy.
+        - Swap one condiment.
+        - Film each person’s real reaction, with one Spanish explanation and one Korean term if it helps.
+      brands: Groceries and international ingredients
+    - id: 7
+      segment: home
+      stage: Lifestyle · optional, evergreen
+      title: Who does Jacob pick?
+      format: Short vertical video
+      time: 15 min to make
+      level: Low effort
+      hook: ¿A quién prefiere Jacob?
+      shots:
+        - Only if you want to include Jacob.
+        - Each of you calls him once, in one take.
+        - Keep a playful tally. Don’t stage the result.
+      brands: Pet care
+
+# E — Sounds, signals and brands.
+sound:
+  kicker: Sound and brands
+  headline:
+    - Three songs,
+    - one rule.
+    - "*Check the rights.*"
+  lead: Each film has a suggested track. Use it only if it’s available in your account and cleared for the use. Otherwise, your own dialogue is the audio.
+  insteadTitle: The suggested tracks
+  instead:
+    - "First match → today: “Time” by Pink Floyd"
+    - "Jeff’s glow-up: “Recházame” by Prince Royce"
+    - "Christmas mode: “Last Christmas” by Wham!"
+    - Or your own spoken dialogue, which works for all three
+  planning:
+    value: 10 Nov
+    body: The day public trackers checked these formats on Instagram and TikTok. Christmas music was back on the list.
+    note: The audio-use counts in those trackers are all-time totals read on 14 Nov, not growth this week.
+  brands:
+    title: Brands that fit naturally
+    list: Groceries and international ingredients, travel and cultural tourism, home and holiday, language and translation tools, consumer electronics and pet care.
+    line: Two cultures, one household. Show what a product does in a real shared moment.
+    note: These are natural fits only. No partnerships are implied.
+
+# F — The week's plan, in the challenge section.
+challenge:
+  kicker: Your next seven days
+  headline:
+    - Publish, learn,
+    - "*repurpose.*"
+  body: A suggested order for 14–20 November. These are editorial priorities, not the best times to post. Your own analytics decide the timing.
+  steps:
+    - Shoot Jeff’s glow-up first.
+    - Batch the love story and the holiday skit.
+    - On Friday, check what worked.
+  versionsTitle: The week, day by day
+  versions:
+    - who: Sat 14
+      line: Jeff’s costeño glow-up
+    - who: Sun 15
+      line: First match → today
+    - who: Mon 16
+      line: A reply-to-comment mini clip
+    - who: Tue 17
+      line: Christmas music is back
+    - who: Wed 18
+      line: Couple POV, dinner choice
+    - who: Thu 19
+      line: Food swap or home montage
+    - who: Fri 20
+      line: Review the winners, plan the next test
+  caption: “Jeff antes de conocer a una vallenata…” or “Jeff aprendió costeño y ahora no hay quien lo pare.”
+  when: For the language Reel. Change one thing at a time when you can.
+  check: "Then check Insights: 3-second hold and watch time, shares and sends, saves and profile visits, and the themes in your comments."
+  closer: Don’t use estimated views as the goal.
+  # What "Copy the plan" copies.
+  brief: |-
+    Andrea & Jeff: the next seven days (14–20 Nov)
+
+    Sat 14: Jeff’s costeño glow-up. Use the comments as a prompt for a sequel.
+    Sun 15: First match → today. The emotional counterweight to the comedy. Invite their stories.
+    Mon 16: Reply-to-comment mini clip. One real word or pronunciation question from the audience.
+    Tue 17: Christmas music is back. Only if your holiday mode has really started.
+    Wed 18: Couple POV, dinner choice. A light, relatable beat between the trend edits.
+    Thu 19: Food swap or home montage. Colombian and Korean preferences, without stereotypes.
+    Fri 20: Review the winners and plan the next test.
+
+    A/B test for the language Reel: “Jeff antes de conocer a una vallenata…” vs. “Jeff aprendió costeño y ahora no hay quien lo pare.” Change one thing at a time when you can.
+
+    What to check in Insights: 3-second hold and average watch time, shares and sends, saves and profile visits, comments by theme.
+
+    These are editorial priorities, not the best times to post. Don’t use estimated views as the goal.
+
+# G — Sources and the fine print.
+originals:
+  kicker: The fine print
+  headline:
+    - Want to see
+    - "*the originals?*"
+  notes:
+    - Trend formats were checked by public trackers on 6 and 10 Nov. Audio-use counts were read on 14 Nov and are all-time totals.
+    - Instagram and TikTok blocked direct viewing in this research, so we couldn’t check your latest Reels, or when the examples were posted and how they did.
+    - We had no Instagram Insights. Your top Reels, audience locations and retention would sharpen next week’s brief.
+    - No hashtags are suggested, because we couldn’t check which ones are live.
+    - The scripts and posting order are suggestions, not measured results, and none of the dialogue is something you’ve said.
+    - This brief is just for Andrea & Jeff and Stride Talent, so please keep it between us.
+  groups:
+    - title: The trend research
+      links:
+        - label: Instagram trends (Postdom), checked 10 Nov
+          url: https://postdom.com/blog/instagram-trends
+        - label: TikTok trends (Postdom), checked 10 Nov
+          url: https://postdom.com/blog/tiktok-trends
+        - label: November Reels trends (Later), 6 Nov
+          url: https://later.com/blog/instagram-reels-trends/
+    - title: The example posts
+      links:
+        - label: Time then and now, Instagram
+          url: https://www.instagram.com/reel/DfeYQukIzrD/
+        - label: Time then and now, TikTok
+          url: https://www.tiktok.com/%40nursemikael_/video/7705622830091603213
+        - label: Entiende corazón, Instagram
+          url: https://www.instagram.com/reel/DfTDW1oNNtb/
+        - label: Entiende corazón, TikTok
+          url: https://www.tiktok.com/%40karlassuarez/video/7704818472168983860
+        - label: Holiday couple clip, Instagram
+          url: https://www.instagram.com/reel/DfNd88dS2Dg/
+        - label: Holiday switch-over, Instagram
+          url: https://www.instagram.com/reel/DfcWG-vx7iT/
+        - label: Deck the Halls duo, TikTok
+          url: https://www.tiktok.com/%40amandagravestattoo/video/7705506751507877150
+        - label: Not every angel, Instagram
+          url: https://www.instagram.com/p/De-c3BUIk4d/
+        - label: I just wanna, Instagram
+          url: https://www.instagram.com/p/DeuR-UVAESh/
+    - title: The sounds
+      links:
+        - label: “Time”, Instagram audio page
+          url: https://www.instagram.com/reels/audio/486665065097971/
+        - label: “Recházame”, Instagram audio page
+          url: https://www.instagram.com/reels/audio/420250261717845/
+        - label: “Last Christmas”, Instagram audio page
+          url: https://www.instagram.com/reels/audio/2220958547963097/
+    - title: Accounts to learn from
+      links:
+        - label: "@junijini.tv, Colombian–Korean siblings: bilingual setup and payoff"
+          url: https://viralmango.com/junijini.tv
+        - label: "@aribyncouple, Korean–Mexican family storytelling"
+          url: https://app.fohr.co/creators/aribyncouple
+        - label: "@kateandremi, couple-vlog framing in a holiday moment"
+          url: https://www.instagram.com/reel/DfNd88dS2Dg/
+        - label: "@erikaenfranciaoficial, Colombian life abroad and everyday family humor"
+          url: https://canaltrece.com.co/noticias/las-cinco-cuentas-de-comedia-mas-seguidas-en-colombia/
+    - title: About Andrea & Jeff
+      links:
+        - label: The Chus’ relationship and multicultural life (2024 interview)
+          url: https://www.detona.com/articulo/chus-pareja-coreano-colombiana-viviendo-en-canada
+        - label: Jeff and Valledupar expressions (2024 local coverage)
+          url: https://primeralinea.com.co/el-asiatico-mas-viral-de-tiktok-esta-en-valledupar-disfrutando-el-festival/
+        - label: Their wedding story, from their planner
+          url: https://eugeniaramos.squarespace.com/blog/jeff-y-andrea
