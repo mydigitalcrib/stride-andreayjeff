@@ -34,7 +34,7 @@ const { ideas } = data;
           <div class="idea__row">
             <button class="idea__head" type="button" aria-expanded="false" aria-controls={`idea-${idea.id}`} data-idea-toggle>
               <span class="item-title idea__title">{idea.title}</span>
-              <span class="idea__meta">{idea.format} · {idea.time} · {idea.level}</span>
+              <span class="idea__meta">{[idea.format, idea.time, idea.level].filter(Boolean).join(' · ')}</span>
             </button>
             <button class="idea__star" type="button" data-save={idea.id} aria-pressed="false" aria-label={`${t.ideas.saveThis} ${idea.title}`} data-no-print>
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m12 3.5 2.6 5.6 6.1.7-4.5 4.2 1.2 6L12 17l-5.4 3 1.2-6-4.5-4.2 6.1-.7L12 3.5Z"></path></svg>

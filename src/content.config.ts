@@ -165,8 +165,10 @@ const issues = defineCollection({
             stage: z.string(),
             title: z.string(),
             format: z.string(),
-            time: z.string(),
-            level: z.string(),
+            /** Length, e.g. "7–9 seconds". Leave out if the research gives none. */
+            time: z.string().optional(),
+            /** Effort, e.g. "Easy". Leave out if the research gives none. */
+            level: z.string().optional(),
             hook: z.string(),
             shots: z.array(z.string()),
             /** Leave out if the research gives none; the idea then shows no caption. */

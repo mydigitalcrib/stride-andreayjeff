@@ -1,0 +1,375 @@
+# Issue 002: Andrea & Jeff (The Chus). Made from templates/new-issue.yaml by `npm run new-issue`.
+#
+# Written from the Stride Talent brief "Andrea & Jeff, weekly trend intelligence", Friday edition dated 20 Nov 2026
+# (reporting window 13–19 Nov 2026, sources rechecked 24 Nov 2026). Everything here comes from that brief: no
+# creators, figures, quotes or brand deals were added.
+# Left out on purpose: the fit scores (creative judgments, not predictions), and trends 06–07 of its radar ("Pinned
+# on-screen relationship hook", "Born to… forced to…"), which it lists without detail to build on. Trends 04–05 appear
+# only as sounds. The dialogue lines are the brief's suggestions, not things Andrea or Jeff have said.
+# The brief has no audience-comment research, so the "talking" section offers questions to ask instead.
+
+number: 2
+topic: "Andrea & Jeff"
+start: 2026-11-13
+end: 2026-11-19
+# While true, this issue only shows when you preview on your computer (npm run dev). Set it to false to publish.
+draft: false
+# Every figure here is the brief's own (dates and durations), copied as written.
+figuresChecked: true
+homeLine: "This week: Jeff’s costeño training, your love story, and everything you two still disagree on."
+
+# Words that differ from the usual ones for this issue.
+labels:
+  nav:
+    try: Three to film
+    challenge: The week’s plan
+  challenge:
+    caption: Your series title
+    copy: Copy the plan
+    copied: Plan copied. Have a great week.
+
+headline:
+  - Teach him.
+  - Love him.
+  - "*Disagree on everything.*"
+lede: A costeño training series for Jeff, your love story in a two-photo reveal, and a split screen of everything you two still can’t agree on. Keep every joke about you two, never about a whole country.
+cover:
+  quote: “¿Favorcito o misión imposible?”
+  line: Jeff’s costeño training is the one to shoot first.
+
+# A — This week in three
+week:
+  kicker: This week in three
+  headline:
+    - Three films
+    - "*to make first*"
+  items:
+    - title: Teaching him new habits
+      body: A comedy series you can repeat. Andrea teaches Jeff playful costeño “husband habits”, with quick corrections and a visual payoff.
+    - title: My moon, my man
+      body: The fastest emotional edit. Your real story, from two separate lives to one Colombian–Korean marriage, using genuine photos and clips.
+    - title: Two vibes, one marriage
+      body: Side-by-side choices that get people voting in the comments. It’s an evergreen format from September, not a new trend this week.
+  tryThis: Film Jeff’s costeño training first. Keep the joke about you two, not about what all Koreans or Colombians do.
+  example:
+    body: Public trend trackers listed “Teaching him new habits” on 19 Nov and the “My Moon My Man” couple reveal through 13–19 Nov. Instagram and TikTok blocked direct viewing of several examples, so use these to study the format, not as proof of how any post did.
+    links:
+      - label: TikTok trends (SocialBee), 19 Nov
+        url: https://socialbee.com/blog/tiktok-trends-you-cant-miss/
+      - label: See the original format on TikTok
+        url: https://www.tiktok.com/@ladypipa/video/7698671089580363041
+  beats:
+    title: The training, in three beats
+    items:
+      - name: The test
+        line: "“Primera regla: cuando yo digo ‘ajá’, tú sabes que se viene algo.”"
+      - name: The attempt
+        line: “¿Así? ¿O tengo que aprender también a bailar?”
+      - name: The score
+        line: “Bueno, un siete de diez.”
+    footer: The joke is always you two, never a whole country.
+
+# B — The three films, in detail. The first one starts open.
+five:
+  kicker: Worth your time
+  headline:
+    - Three films
+    - to *make this week*
+  lead: Start with the training, then batch the other two.
+  note: Two of the three were on dated public trend trackers during 13–19 Nov. “Two vibes” is an evergreen format from September, and it’s labeled that way on purpose. Instagram and TikTok blocked direct viewing of several examples, and the order is Stride’s creative pick, not a prediction of views.
+  items:
+    - title: The costeño husband training
+      makeItYours: Andrea teaches Jeff three absurdly dramatic habits to become an honorary esposo costeño.
+      what: “Teaching him new habits” was in SocialBee’s TikTok trends on 19 Nov. The original shows a playful ritual of teaching a partner to bow. This is your own costeño version.
+      more: Andrea announces the test, Jeff tries a tiny respectful bow, then two dance steps, then a dramatically prepared “favorcito”. End with a score out of ten and ask what to teach him next. About 25 seconds, and it can become a series.
+      hook: Si Jeff quiere ser esposo costeño, tiene que pasar estas 3 pruebas.
+      ways:
+        - “Hoy le voy a enseñar a mi esposo coreano lo mínimo para sobrevivir con una costeña.”
+        - "TikTok: keep the raw outtakes in."
+        - Ask followers for the next “training” challenge, and make it part 2.
+      careful: Keep the joke about you two, not what all Korean or Colombian people do. Use your own dialogue, and don’t put the original trend audio in paid ads without the rights.
+      brands: Language learning
+      links:
+        - label: TikTok trends (SocialBee), 19 Nov
+          url: https://socialbee.com/blog/tiktok-trends-you-cant-miss/
+        - label: See the original format on TikTok
+          url: https://www.tiktok.com/@ladypipa/video/7698671089580363041
+    - title: My moon, my man
+      makeItYours: Your real story, from two separate lives to one Colombian–Korean marriage, in a 22-second reveal.
+      what: A romantic couple-reveal montage that trend trackers followed through 13–19 Nov, set to the “My Moon My Man” cover by FINNEAS.
+      more: Andrea’s solo photo (“Una colombiana…”), then Jeff’s (“Un coreano…”), then a real early photo of you two on the audio transition, two candid clips together, and a warm recent shot that ends on a genuine laugh. A short voiceover from each of you.
+      hook: Dos culturas, dos idiomas… y una historia que ninguno vio venir.
+      ways:
+        - “Yo solo quería conocerlo… y terminé aprendiendo otro mundo.”
+        - "TikTok: a two-photo swipe reveal."
+        - "Shorts: a voiceover version with more of your story."
+      careful: Use only photos and footage you own and agree to share, and don’t invent milestones or dates. Check the sound is available in your account, and use cleared original music for anything sponsored.
+      brands: Travel and eSIM
+      links:
+        - label: TikTok sounds (Sosial), 18 Nov
+          url: https://sosial.app/resources/trending-tiktok-sounds-week-of-november-16-2026
+        - label: TikTok trends (Virlo), 9–15 Nov
+          url: https://virlo.ai/trending-on-tiktok-this-week/2026-11-09
+    - title: Two vibes, one marriage
+      makeItYours: Fast split-screen choices showing everything you two still can’t agree on.
+      what: A side-by-side preference format from SocialBee’s Instagram trend archive. It dates from September, so it’s evergreen, not a new trend this week, and good to film between the urgent ones.
+      more: A split screen titled “2 personalidades, 1 matrimonio”, then breakfast, music (vallenato vs. Jeff’s favorite) and date night, and finish agreeing on a meal together. About 27 seconds. Then ask who’s team Andrea and who’s team Jeff.
+      hook: Nos casamos, pero seguimos sin ponernos de acuerdo en ESTO.
+      ways:
+        - “¿Qué pasa cuando una colombiana y un coreano eligen la cita perfecta?”
+        - "Reels: face-to-face still cards."
+        - "Shorts: keep only the 3 best comparisons."
+      careful: Keep every choice personal. One preference never stands for a whole country.
+      brands: Food and grocery, home and retail
+      links:
+        - label: Instagram trends (SocialBee), September entry
+          url: https://socialbee.com/blog/latest-instagram-trends/
+        - label: See an example Reel
+          url: https://www.instagram.com/reels/DcaefSUS2wt/
+
+# C — No audience-comment research this week, so: questions to ask the audience.
+talking:
+  nav: Questions to ask
+  kicker: Start the conversation
+  headline:
+    - What to ask
+    - "*your*"
+    - audience.
+  lead: We couldn’t see your comments or Insights this week, so these are questions to ask, not ones we heard.
+  questions:
+    - text: ¿Qué otra costumbre le enseño?
+    - text: ¿De dónde son ustedes y sus parejas?
+    - text: ¿Ustedes son team Andrea o team Jeff?
+  turn:
+    title: Turn it into content
+    body: Let the answers make the next videos. The training challenge your followers pick becomes part 2, and the next “two vibes” category comes from a poll in the comments.
+  care: Treat traditions as your own experiences, not as traits of all Koreans or Colombians.
+
+# D — Seven ideas: the three films plus the brief's four extras.
+ideas:
+  kicker: Ready to film
+  headline:
+    - Seven ideas
+    - "*only you two can make*"
+  lead: The three films, plus four extras you can batch with them. Tap one to see the hook and how to film it, then save your favorites.
+  filming: Batch the extras with the three main films. Keep an original-audio cut of each video, so it can also be used for brand work.
+  careful: No invented milestones. Use relationship footage only with your approval, and don’t assume anniversaries or big life events. Treat traditions as your own experiences. A sound cleared for normal posts may not be cleared for paid posts, Spark Ads or brand whitelisting.
+  segments:
+    - id: comedy
+      label: Comedy
+    - id: love
+      label: Love story
+    - id: home
+      label: Food & home
+  items:
+    - id: 1
+      segment: comedy
+      stage: Couple comedy · film first
+      title: The costeño husband training
+      format: TikTok or Reels
+      time: 25 seconds
+      level: Low effort
+      hook: Si Jeff quiere ser esposo costeño, tiene que pasar estas 3 pruebas.
+      shots:
+        - "Two-shot: Andrea announces the test. “Primera regla: cuando yo digo ‘ajá’, tú sabes que se viene algo.”"
+        - Jeff tries a tiny respectful bow and looks to camera.
+        - "Fast cut to a music cue. Andrea does two steps and Jeff tries: “¡Con actitud! Eso no parece vallenato, mi amor.”"
+        - Andrea asks for “un favorcito” and Jeff starts preparing dramatically.
+        - You both laugh. A score on screen, and ask what to teach him next.
+      caption: Lleva años conmigo y todavía le falta práctica 😂 ¿Qué otra costumbre le enseño?
+      brands: Language learning
+    - id: 2
+      segment: love
+      stage: Love story · post while the sound is recognizable
+      title: My moon, my man
+      format: TikTok or Reels
+      time: 15–22 seconds
+      level: Low effort
+      hook: Dos culturas, dos idiomas… y una historia que ninguno vio venir.
+      shots:
+        - "Andrea’s solo photo on a neutral background. Text: “Una colombiana…”"
+        - "Jeff’s solo photo or an old clip, framed the same way. Text: “Un coreano…”"
+        - "On the audio transition, a real early photo of you two. Text: “…y un montón de historias por contar.”"
+        - "Two candid clips together: laughing, a walk, food or travel. Andrea’s voiceover: “Todavía me sorprende lo bonito que es aprender del otro.”"
+        - "A warm recent shot that ends on a real laugh. Jeff’s voiceover: “Y yo sigo aprendiendo, todos los días.”"
+      caption: Hay historias que empiezan con dos mundos diferentes. La nuestra todavía se está escribiendo.
+      brands: Travel and eSIM
+    - id: 3
+      segment: comedy
+      stage: Couple comedy · evergreen
+      title: Two vibes, one marriage
+      format: Instagram Reels
+      time: 27 seconds
+      level: Low effort
+      hook: Nos casamos, pero seguimos sin ponernos de acuerdo en ESTO.
+      shots:
+        - You both enter a split screen, with “2 personalidades, 1 matrimonio” fixed on screen.
+        - "Breakfast: you each point to your choice. “¿Arepita?” “Yo hoy quiero otra cosa.”"
+        - Music. Andrea picks vallenato, Jeff picks his own favorite.
+        - Date night. One wants a quiet plan, the other is already dressed to go out.
+        - "You agree on a shared meal: “¡Comer juntos, siempre!”"
+      caption: En gustos no nos parecemos en nada… ¿ustedes son team Andrea o team Jeff?
+      brands: Food and grocery, home and retail
+    - id: 4
+      segment: comedy
+      stage: Quick couple skit
+      title: When Jeff hears “ahorita”
+      format: Short vertical video
+      time: 12–18 seconds
+      level: Low effort
+      hook: Cuando Jeff escucha ‘ahorita’
+      shots:
+        - Andrea says “ahorita vamos”.
+        - Jeff gets ready instantly and checks the clock.
+        - He realizes “ahorita” needs context. Keep it short and improvised.
+    - id: 5
+      segment: home
+      stage: Cultural discovery
+      title: Explaining a dish from home
+      format: Short vertical video
+      hook: Cómo explicarle una comida de casa
+      shots:
+        - Each of you picks one favorite family dish.
+        - Explain it to the other in 10 seconds.
+        - Taste-test it together. Respect where it comes from, and your own tastes.
+      brands: Food partners
+    - id: 6
+      segment: love
+      stage: Marriage storytelling
+      title: The phrase we learned living together
+      format: Voiceover over candid footage
+      hook: La frase que aprendimos viviendo juntos
+      shots:
+        - Each of you shares one honest lesson about communicating across two languages, or about family traditions.
+        - Record it as a short voiceover.
+        - Lay it over real, candid footage of you two.
+    - id: 7
+      segment: home
+      stage: Family, pet, lifestyle · optional
+      title: Who spoils Jacob more?
+      format: Two short clips
+      hook: ¿Quién mima más a Jacob?
+      shots:
+        - Only if it feels right for you both.
+        - One clip of how each of you entertains or cares for Jacob.
+        - Show your real routines, not invented ones.
+
+# E — Sounds, signals and brands.
+sound:
+  kicker: Sound and brands
+  headline:
+    - One trending sound,
+    - your own voice
+    - "*for everything else.*"
+  lead: Check every sound is available in your account. A sound you can use in a normal post may not be cleared for paid posts, Spark Ads or brand whitelisting, so keep an original-audio cut.
+  insteadTitle: The sounds this week
+  instead:
+    - "My moon, my man: the “My Moon My Man” cover by FINNEAS"
+    - "A Christmas decor video: the “Christmas (Baby Please Come Home)” sound"
+    - "A then-and-now video: the “Time” sound"
+    - "The training and Two vibes: your own dialogue, with a licensed beat if you want one"
+  planning:
+    value: 18 Nov
+    body: The day Sosial’s weekly sound roundup listed the “My Moon My Man”, Christmas decor and “Time” sounds.
+    note: A roundup shows a sound is in use, not that it will work for you. Your own Insights decide what to repeat.
+  brands:
+    title: Brands that fit naturally
+    list: Food partners, language learning, home and retail, and travel or eSIM.
+    line: Make it authentic first, then make it commercial.
+    note: These are natural fits only. Confirm any sponsored product claims, and never pretend a product gave results it didn’t.
+
+# F — The week's plan, in the challenge section.
+challenge:
+  kicker: Your next seven days
+  headline:
+    - Film, post,
+    - "*learn from it.*"
+  body: A suggested order for 20–26 November. It isn’t evidence of the best posting hours, so check your own Insights and your schedules before you commit.
+  steps:
+    - Film the costeño training first.
+    - Post your love story while the sound is still recognizable.
+    - Batch the food test and the “ahorita” skit.
+  versionsTitle: The week, day by day
+  versions:
+    - who: Fri 20
+      line: Teaching him new habits
+    - who: Sat 21
+      line: My moon, my man
+    - who: Sun 22
+      line: Behind the scenes, in Stories
+    - who: Mon 23
+      line: Two vibes, one marriage
+    - who: Tue 24
+      line: A Korean–Colombian food test
+    - who: Wed 25
+      line: The “ahorita” skit
+    - who: Thu 26
+      line: Holiday prep and Christmas traditions
+  caption: “Entrenando a mi esposo para ser costeño — parte 1”
+  when: Put it on screen in the first training video, then let your followers pick the next challenge.
+  check: Then compare 3-second view-through, retention, shares and saves, comments per 1,000 views, and new followers per reach against your recent posts.
+  closer: Pick next week’s formats from your own Insights, not the trend score.
+  # What "Copy the plan" copies.
+  brief: |-
+    Andrea & Jeff: the next seven days (20–26 Nov)
+
+    Fri 20: Teaching him new habits. A fast trend response.
+    Sat 21: My moon, my man. Emotional connection.
+    Sun 22: Behind the scenes, in Stories. Reuse genuine filming outtakes.
+    Mon 23: Two vibes, one marriage. Poll for the next comparison.
+    Tue 24: Korean–Colombian food test. Batch production.
+    Wed 25: The “ahorita” couple skit. Low-effort comedy.
+    Thu 26: Holiday prep and Christmas traditions. Seasonal build-up.
+
+    Series title for the training: “Entrenando a mi esposo para ser costeño — parte 1”. Ask followers for the next challenge.
+
+    What to compare against your recent posts: 3-second view-through, retention, shares and saves, comments per 1,000 views, new followers per reach.
+
+    This is a suggested order, not evidence of the best posting hours. Check your Insights and your schedules first.
+
+# G — Sources and the fine print.
+originals:
+  kicker: The fine print
+  headline:
+    - Want to see
+    - "*the originals?*"
+  notes:
+    - The research window was 13–19 Nov 2026, reviewed on 24 Nov. Trend names and timing were checked against dated third-party summaries.
+    - Instagram and TikTok blocked direct viewing of several examples.
+    - “Two vibes, one marriage” is an evergreen format from September, not a new trend this week.
+    - We couldn’t verify your follower count, recent brand deals, sound permissions or best posting hours from public sources.
+    - The scripts and posting order are suggestions, not measured results, and none of the dialogue is something you’ve said.
+    - This brief is just for Andrea & Jeff and Stride Talent, so please keep it between us.
+  groups:
+    - title: The trend research
+      links:
+        - label: TikTok trends (SocialBee), updated 19 Nov
+          url: https://socialbee.com/blog/tiktok-trends-you-cant-miss/
+        - label: Instagram trends (SocialBee), updated 19 Nov
+          url: https://socialbee.com/blog/latest-instagram-trends/
+        - label: TikTok sounds (Sosial), updated 18 Nov
+          url: https://sosial.app/resources/trending-tiktok-sounds-week-of-november-16-2026
+        - label: TikTok trends (Virlo), 9–15 Nov
+          url: https://virlo.ai/trending-on-tiktok-this-week/2026-11-09
+        - label: Relationship formats (Volume), measured 13 Nov
+          url: https://tryvolume.app/working/relationships-and-dating/2026-11-13
+    - title: Background only
+      links:
+        - label: My Moon My Man, history of the trend (Know Your Meme)
+          url: https://knowyourmeme.com/memes/my-moon-my-man-trend
+        - label: TikTok trends (Virlo), 16–22 Nov, a look back after the window
+          url: https://virlo.ai/trending-on-tiktok-this-week/2026-11-16
+    - title: The example posts
+      links:
+        - label: Teaching him new habits, on TikTok
+          url: https://www.tiktok.com/@ladypipa/video/7698671089580363041
+        - label: Two friends, two vibes, on Instagram
+          url: https://www.instagram.com/reels/DcaefSUS2wt/
+    - title: The sounds
+      links:
+        - label: My Moon My Man sound, on TikTok
+          url: https://www.tiktok.com/music/original-sound-7703755719484394241
+        - label: Christmas decor sound, on TikTok
+          url: https://www.tiktok.com/music/christmas-baby-please-come-home-7014250805079312386
+        - label: Time, then-and-now sound, on TikTok
+          url: https://www.tiktok.com/music/original-sound-7698905099095673613

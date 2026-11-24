@@ -5,7 +5,7 @@
 # - A headline is a list of lines. *Words between stars* are set in the serif accent.
 # - Put text in "quotes" if it starts with a quote mark, an @, a * or contains ": " (a colon then a space).
 # - Never invent creators, numbers or quotes. Every figure needs a source in `originals` at the bottom.
-# - src/content/issues/001-motherhood-family.yaml is a finished example to copy from.
+# - src/content/issues/001-andrea-jeff.yaml is a finished example to copy from.
 
 number: {{number}}
 topic: {{topic}}

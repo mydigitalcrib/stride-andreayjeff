@@ -99,7 +99,7 @@ type Thing = IssueData['five']['items'][number];
 export const ideaBrief = (data: IssueData, i: Idea, t: Labels) =>
   [
     i.title,
-    `${i.format} · ${i.time}`,
+    [i.format, i.time].filter(Boolean).join(' · '),
     '',
     `${t.ideas.hook}: “${i.hook}”`,
     '',
