@@ -136,7 +136,8 @@ const issues = defineCollection({
             hook: z.string(),
             ways: z.array(z.string()),
             careful: z.string().optional(),
-            brands: z.string(),
+            /** Leave out if the research names no brand fit for this one. */
+            brands: z.string().optional(),
             links: z.array(link),
           }),
         ),

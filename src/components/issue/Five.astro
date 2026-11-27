@@ -52,8 +52,12 @@ const { five } = data;
                   <blockquote class="thing__hook type-serif">“{th.hook}”</blockquote>
                   <p class="soft-label">{t.five.ways}</p>
                   <ul>{th.ways.map((w) => <li>{w}</li>)}</ul>
-                  <p class="soft-label">{t.five.brands}</p>
-                  <p>{th.brands}</p>
+                  {th.brands && (
+                    <>
+                      <p class="soft-label">{t.five.brands}</p>
+                      <p>{th.brands}</p>
+                    </>
+                  )}
                   <button class="exp-pill exp-pill--ghost thing__copy" type="button" data-copy={thingBrief(th, t)} data-copied={t.five.copied} data-no-print>{t.five.copy}</button>
                 </div>
               </div>

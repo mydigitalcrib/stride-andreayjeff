@@ -1,0 +1,354 @@
+# Issue 003: Andrea & Jeff (The Chus). Made from templates/new-issue.yaml by `npm run new-issue`.
+#
+# Written from the Stride Talent brief "The Chus, weekly trend report", dated 27 Nov 2026 (it calls itself issue 002;
+# research period 20–26 Nov 2026, publishing window 27 Nov – 3 Dec 2026). Everything here comes from that brief: no
+# creators, figures, quotes or brand deals were added.
+# Left out on purpose: the fit scores (editorial estimates, not predictions) and the link to their own Instagram
+# profile. Radar trends 04–07 appear as the four quick ideas and in the sounds section. The dialogue lines are the
+# brief's suggestions, not things Andrea or Jeff have said. The brief has no audience-comment research, so the
+# "talking" section offers questions to ask instead. Two on-screen texts had emoji that didn't survive the PDF; they
+# are left without.
+
+number: 3
+topic: "Andrea & Jeff"
+start: 2026-11-20
+end: 2026-11-26
+# While true, this issue only shows when you preview on your computer (npm run dev). Set it to false to publish.
+draft: false
+# Every figure here is the brief's own (dates and durations), copied as written.
+figuresChecked: true
+homeLine: "This week: a rhyming battle, a three-culture Christmas, and a snack mystery."
+
+# Words that differ from the usual ones for this issue.
+labels:
+  nav:
+    try: Three to film
+    challenge: The week’s plan
+  challenge:
+    caption: Your series title
+    copy: Copy the plan
+    copied: Plan copied. Have a great week.
+
+headline:
+  - Three cultures,
+  - one Christmas,
+  - "*zero snacks left.*"
+lede: A rhyming battle that ends in Korean, a Christmas with Colombian, Korean and Canadian moments, and a snack mystery played like a crime documentary. Easy to film, and each one can become a series.
+cover:
+  quote: “¡Ay, pero este hombre!”
+  line: The rhyming challenge is the one to film first.
+
+# A — This week in three
+week:
+  kicker: This week in three
+  headline:
+    - Three films
+    - "*to make first*"
+  items:
+    - title: The costeño rhyming challenge
+      body: A quick Spanish rhyming battle, then Jeff turns it around in Korean. A strong hook, minimal setup and natural comedy.
+    - title: Three cultures, one Christmas
+      body: Colombian, Korean and Canadian holiday moments, told through your own dialogue. Timely, and a natural fit for brands.
+    - title: The everyday villain
+      body: An ordinary household mystery played as a dramatic mini crime documentary, through an innocent couple disagreement.
+  tryThis: Film the rhyming challenge first, in one sitting, with two camera angles at most.
+  example:
+    body: Trend trackers documented all three formats on 26 Nov. The rhyming challenge was in SocialBee’s TikTok formats, and “Christmas is coming” and “Everyday villain” were in Postdom’s Instagram trends. Instagram and TikTok posts couldn’t always be opened, so study the format from the trackers, not as proof of how any post did.
+    links:
+      - label: TikTok formats (SocialBee), 26 Nov
+        url: https://socialbee.com/blog/tiktok-trends-you-cant-miss/
+      - label: Instagram trends (Postdom), 26 Nov
+        url: https://postdom.com/blog/instagram-trends
+  beats:
+    title: The rhyming battle, in three beats
+    items:
+      - name: Corazón
+        line: “Corazón.” “Canción.” “¡Epa!”
+      - name: Vallenato
+        line: “Vallenato.” “Zapato.”
+      - name: The reversal
+        line: “Ahora te toca a ti en coreano.”
+    footer: Keep Jeff’s real answers and your real reactions.
+
+# B — The three films, in detail. The first one starts open.
+five:
+  kicker: Worth your time
+  headline:
+    - Three films
+    - to *make this week*
+  lead: Film the rhymes first, then batch the other two.
+  note: All three formats were documented by dated trend trackers on 26 Nov. Instagram and TikTok posts couldn’t always be opened, and the order is Stride’s creative pick, not a prediction of views.
+  items:
+    - title: How costeño is my husband?
+      makeItYours: Andrea challenges Jeff to rhyme Spanish words under pressure, then Jeff turns it around in Korean.
+      what: The rhyming challenge was in SocialBee’s TikTok formats on 26 Nov, with an original example. Your twist is the Spanish–Korean reversal.
+      more: Andrea gives Jeff three seconds to rhyme “Corazón”, “Vallenato” and “Arepa”. Keep his real answers and your genuine reactions. Then Jeff challenges her in Korean. End with a quick challenge for viewers. It runs 25 to 30 seconds, with about 15–25 minutes to shoot and 25–40 to edit.
+      hook: Vamos a ver qué tan costeño está mi esposo coreano.
+      ways:
+        - “Si Jeff me gana en español, me toca aprender coreano.”
+        - "Reels: start on Andrea’s hook and add a pinned comment prompt."
+        - "Shorts: subtitle both the Spanish and the Korean words."
+      careful: Use your own spoken audio. If you add music, pick something licensed in the app and keep the dialogue easy to hear.
+      links:
+        - label: TikTok formats (SocialBee), 26 Nov
+          url: https://socialbee.com/blog/tiktok-trends-you-cant-miss/
+    - title: Three cultures, one Christmas
+      makeItYours: A real holiday-prep moment where each of you picks one tradition you love, living in Canada.
+      what: “Christmas is coming” was in Postdom’s Instagram trends on 26 Nov. Your version brings Colombian, Korean and Canadian moments into one home.
+      more: Put “Navidad colombo-coreana en Canadá” on screen. Andrea shows something meaningful to her, Jeff adds a tradition or holiday food he genuinely enjoys, then a quick montage of your real choices and the final combination. It runs 28 to 35 seconds, with about 30–45 minutes to shoot.
+      hook: En esta casa la Navidad tiene tres culturas.
+      ways:
+        - "“¿Quién decide cómo celebramos: Colombia, Corea o Canadá?”"
+        - "TikTok: lean into the couple debate."
+        - "Shorts: show the three traditions within the first two seconds."
+      careful: Use props and things you really have. Don’t invent a tradition Jeff doesn’t practice, and don’t speak for all Colombian or Korean families.
+      brands: Food and grocery, home and seasonal products
+      links:
+        - label: Instagram trends (Postdom), 26 Nov
+          url: https://postdom.com/blog/instagram-trends
+    - title: Who ate my snacks?
+      makeItYours: A household mystery played as a crime documentary, with Jeff as the detective and Andrea as the suspicious witness.
+      what: "“Everyday villain” was in Postdom’s Instagram trends on 26 Nov: an ordinary moment told like a dramatic true-crime story."
+      more: Start on an empty snack packet with “CASO 001, el snack desaparecido”. Jeff, dead serious, says “Andrea, tenemos que hablar”. Crumbs as evidence, Andrea’s very short excuse, a slow-motion reveal of the wrapper in her hand, and “Bueno… ¿compramos más?”. It runs 22 to 30 seconds and takes about 15 minutes to film.
+      hook: Algo muy grave pasó en esta casa...
+      ways:
+        - “Cuando tu esposo descubre que desaparecieron sus snacks coreanos.”
+        - "Reels: a dramatic 20–25 second montage."
+        - "Shorts: title it as a playful micro-mystery."
+      careful: Keep it playful. Don’t stage a mean-spirited argument.
+      brands: Food and grocery
+      links:
+        - label: Instagram trends (Postdom), 26 Nov
+          url: https://postdom.com/blog/instagram-trends
+
+# C — No audience-comment research this week, so: questions to ask the audience.
+talking:
+  nav: Questions to ask
+  kicker: Start the conversation
+  headline:
+    - What to ask
+    - "*your*"
+    - audience.
+  lead: We couldn’t see your comments or Insights this week, so these are questions to ask, not ones we heard.
+  questions:
+    - text: ¿Qué palabras le ponemos a Jeff en la parte 2?
+    - text: ¿Qué tradición navideña no puede faltar en tu casa?
+    - text: ¿Quién es el culpable en su casa?
+  turn:
+    title: Turn it into content
+    body: Let the answers make the next videos. The words your followers suggest become the rhyming part 2, and the tradition they say is missing becomes the Christmas part 2.
+  care: Keep traditions personal, and never speak for all Colombian or Korean families.
+
+# D — Seven ideas: the three films plus the brief's four quick concepts.
+ideas:
+  kicker: Ready to film
+  headline:
+    - Seven ideas
+    - "*only you two can make*"
+  lead: The three films, plus four quick concepts you can batch with them. Tap one to see the hook and how to film it, then save your favorites.
+  filming: Film 2 or 3 concepts in one batch and adapt the edit for each platform. Keep subtitles large, and cut the silences but keep the reactions.
+  careful: Use real props, real traditions and real reactions. Don’t stage mean-spirited arguments or speak for all Colombian or Korean families. For sponsored posts, check the commercial rights of every track; your own dialogue is the safest audio.
+  segments:
+    - id: comedy
+      label: Comedy
+    - id: holidays
+      label: Holidays
+  items:
+    - id: 1
+      segment: comedy
+      stage: Couple comedy · film first
+      title: How costeño is my husband?
+      format: TikTok + Reels
+      time: 25–30 seconds
+      level: Low effort
+      hook: Vamos a ver qué tan costeño está mi esposo coreano.
+      shots:
+        - "Andrea, to camera: “Amor, tienes tres segundos para rimar.”"
+        - “Corazón.” “Canción.” “¡Epa!” Then “Vallenato.” “Zapato.” “¡Ay, pero este hombre!”
+        - “Arepa.” Jeff improvises. Keep his real answer and your real reaction.
+        - "Jeff: “Ahora te toca a ti en coreano.” Andrea: “No, espérate, tampoco así.”"
+        - End laughing, with a quick challenge for viewers.
+      caption: Yo muy confiada hasta que me tocó hablar coreano 😂 ¿Qué palabras le ponemos a Jeff en la parte 2?
+    - id: 2
+      segment: holidays
+      stage: Holidays · this week
+      title: Three cultures, one Christmas
+      format: Reels + TikTok
+      time: 28–35 seconds
+      level: Low-to-medium effort
+      hook: En esta casa la Navidad tiene tres culturas.
+      shots:
+        - "On screen: “Navidad colombo-coreana en Canadá.” Andrea: “Tenemos un problema: ¿cómo decoramos?”"
+        - "Andrea shows something meaningful to her, like music, food or an ornament: “Yo quiero una Navidad bien colombiana.”"
+        - "Jeff adds a tradition or holiday food he genuinely enjoys: “Y yo quiero incluir esto.”"
+        - "A quick montage of your real choices: a grocery item, decorations, a cozy table, a candid disagreement."
+        - You both reveal the final combination and react to it together.
+        - "Andrea: “¿Qué tradición nos falta para la parte dos?” Jeff points to the comments."
+      caption: Un poquito de Colombia, otro poquito de Corea y mucho amor desde Canadá. ¿Qué tradición navideña no puede faltar en tu casa?
+      brands: Food and grocery, home and seasonal products
+    - id: 3
+      segment: comedy
+      stage: Dramatic comedy
+      title: Who ate my snacks?
+      format: Reels + Shorts
+      time: 22–30 seconds
+      level: Low effort
+      hook: Algo muy grave pasó en esta casa...
+      shots:
+        - "A close-up of an empty snack packet, with a dramatic zoom. On screen: “CASO 001: el snack desaparecido.”"
+        - "Jeff, dead serious: “Andrea, tenemos que hablar.”"
+        - "Andrea, innocently: “¿Sobre qué, amor?” Cut to the evidence, crumbs on the table."
+        - Jeff points at the crumbs. Andrea gives an absurd, very short explanation.
+        - A slow-motion reveal of the snack wrapper in Andrea’s hand.
+        - "Andrea: “Bueno… ¿compramos más?” Jeff breaks character and laughs."
+      caption: Yo solamente iba a probar uno… ¿quién es el culpable en su casa? 😂
+      brands: Food and grocery
+    - id: 4
+      segment: comedy
+      stage: Quick concept · based on the “Except Me Huss” reveal
+      title: The Friday-night exception
+      format: TikTok
+      level: Low effort
+      hook: Todos salen el viernes… menos nosotros.
+      shots:
+        - Open on “Todos salen el viernes… menos nosotros.”
+        - Cut to your real movie night, with Korean food and Colombian snacks.
+        - Keep the reveal personal.
+    - id: 5
+      segment: comedy
+      stage: Quick concept · GTA-style
+      title: Mission impossible, Colombian ingredients
+      format: Instagram
+      level: Medium effort
+      hook: "Misión imposible: ingredientes colombianos"
+      shots:
+        - Andrea asks Jeff to find the ingredients she needs.
+        - Add GTA-style mission graphics as he hunts for them.
+        - End on his real reaction in the grocery store, and a funny result.
+      brands: Food and grocery
+    - id: 6
+      segment: holidays
+      stage: Holidays
+      title: Costeño vs. Korean holiday playlist
+      format: Short vertical video
+      hook: Costeño vs. Korean holiday playlist
+      shots:
+        - Each of you picks two songs.
+        - Play a short sample you’re allowed to use, or hum it or talk about it.
+        - Give each other a playful rating. Your own audio works as a fallback.
+    - id: 7
+      segment: holidays
+      stage: Holidays · Vancouver
+      title: Our multicultural holiday date
+      format: All platforms
+      level: Medium effort
+      hook: Our multicultural holiday date
+      shots:
+        - At a Vancouver holiday venue, one of you picks the snack and the other picks the activity.
+        - Film your real reactions.
+        - Check the venue’s hours and tickets before promising a visit.
+      brands: Travel and local experiences
+
+# E — Sounds, signals and brands.
+sound:
+  kicker: Sound and brands
+  headline:
+    - Four sounds,
+    - one safe choice.
+    - "*Your own voice.*"
+  lead: Every film works with your own spoken audio. If you use a trending track, check it’s available in your account, and clear it separately for brand content.
+  insteadTitle: The sounds and dances this week
+  instead:
+    - "Who ate my snacks?: “Living in the Dark” by Myuu, which the tracker references"
+    - "A GTA-style mission: the GTA audio, back in SocialBee’s Instagram audio list on 26 Nov"
+    - "The Friday-night exception: the “Except Me Huss” sounds listed by Social Expert"
+    - "A dance with a costeño twist: “Jingle Bell Brazil”, in ViralRemix’s 26 Nov snapshot"
+  planning:
+    value: 24 Dec
+    body: The last day of the Vancouver Christmas Market, which runs 16 November – 24 December 2026. A natural backdrop for your holiday date.
+    note: A seasonal date, not a viral claim. Check hours and tickets before you promise a visit.
+  brands:
+    title: Brands that fit naturally
+    list: Food and grocery (holiday cooking, snacks and ingredient discovery), home and seasonal products, and travel or local experiences.
+    line: Only show products you really use.
+    note: These are natural fits only. Show travel and family visits only when they’re real and planned.
+
+# F — The week's plan, in the challenge section.
+challenge:
+  kicker: Your next seven days
+  headline:
+    - Batch it,
+    - "*post it all week.*"
+  body: A suggested order for 27 November – 3 December. The timing is editorial, not based on your analytics, so check your Insights before choosing posting hours.
+  steps:
+    - Film and post the rhyming challenge today.
+    - Shoot the holiday prep together on Saturday.
+    - Film 2 or 3 concepts in each batch.
+  versionsTitle: The week, day by day
+  versions:
+    - who: Fri 27
+      line: Film and post the rhyming challenge
+    - who: Sat 28
+      line: Shoot the holiday prep together
+    - who: Sun 29
+      line: Post Who ate my snacks?
+    - who: Mon 30
+      line: Post Three cultures, one Christmas
+    - who: Tue 1
+      line: The GTA grocery mission, or the Friday-night reveal
+    - who: Wed 2
+      line: Edit and test your hooks on each platform
+    - who: Thu 3
+      line: Post the holiday date or the playlist
+  caption: "“Colombiana vs. coreano: batalla de rimas”"
+  when: Put it on screen in the rhyming challenge, then let your followers pick the words for part 2.
+  check: Then check your Insights before deciding what to repeat. No retention, view or audience data was available for this brief.
+  closer: Real reactions beat any script.
+  # What "Copy the plan" copies.
+  brief: |-
+    Andrea & Jeff: the next seven days (27 Nov – 3 Dec)
+
+    Fri 27: Film and post the rhyming challenge. Fast and repeatable.
+    Sat 28: Shoot the holiday prep together. Batch the seasonal videos.
+    Sun 29: Post Who ate my snacks? A quick comic contrast.
+    Mon 30: Post Three cultures, one Christmas. A strong brand fit.
+    Tue 1: The GTA grocery mission or the Friday-night reveal.
+    Wed 2: Edit and test your hooks on each platform, to improve retention.
+    Thu 3: Post the holiday date or the playlist.
+
+    Series title for the rhymes: “Colombiana vs. coreano: batalla de rimas”. Let your followers pick the words for part 2.
+
+    Film 2 or 3 concepts in one batch and adapt the edit for each platform. The timing is editorial, not based on your analytics: check your Insights before choosing posting hours.
+
+# G — Sources and the fine print.
+originals:
+  kicker: The fine print
+  headline:
+    - Want to see
+    - "*the originals?*"
+  notes:
+    - The research period was 20–26 Nov 2026. The trend references come from dated public trackers published on 26 Nov.
+    - Instagram and TikTok posts couldn’t always be opened, so the trackers were used instead.
+    - Postdom also links to @plutobirdie’s “Everyday villain” Reel and @juilovelee’s Christmas countdown Reel. Learn the edit from them without copying the content.
+    - The “Reels using audio” figure in the Postdom tracker is an all-time count, not growth this week.
+    - ViralRemix covers its own selection of trends, not all of TikTok.
+    - No retention, view, audience or conversion data for your account was available, and none was invented.
+    - The scripts and posting order are suggestions, not measured results, and none of the dialogue is something you’ve said.
+    - This brief is just for Andrea & Jeff and Stride Talent, so please keep it between us.
+  groups:
+    - title: The trend research
+      links:
+        - label: TikTok formats (SocialBee), updated 26 Nov
+          url: https://socialbee.com/blog/tiktok-trends-you-cant-miss/
+        - label: Instagram trends and original Reel links (Postdom), 26 Nov
+          url: https://postdom.com/blog/instagram-trends
+        - label: TikTok snapshot (ViralRemix), 26 Nov
+          url: https://viralremix.org/tiktok-trends/2026-11-26
+        - label: Trending Instagram audio (SocialBee), 26 Nov
+          url: https://socialbee.com/blog/trending-instagram-songs-this-week/
+        - label: November formats, incl. Except Me Huss (Social Expert)
+          url: https://socialexpert.app/learn/trends/2026-11
+    - title: Seasonal
+      links:
+        - label: Vancouver Christmas Market, official information
+          url: https://www.vancouverchristmasmarket.com/
